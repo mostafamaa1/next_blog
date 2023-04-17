@@ -1,8 +1,6 @@
 {
   "name": "graphcms-blog",
   "version": "0.1.0",
-  "private": true,
-  "engineStrict": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",

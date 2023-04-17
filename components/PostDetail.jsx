@@ -1,5 +1,4 @@
 import React from 'react';
-import { FaClock } from 'react-icons/fa';
 import moment from 'moment';
 
 const PostDetail = ({ post }) => {
